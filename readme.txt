@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new brach in quick.
 Creating a new bracnch is quick AND simple.
 a new line.
+stupid!
