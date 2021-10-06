@@ -6,3 +6,4 @@ Creating a new brach in quick.
 a new line.
 stupid!
 a new line after origin
+Creating a new branch is quick and simple.
